@@ -1,0 +1,5 @@
+
+public enum expType
+{
+	BASIC, COMPLEX, HYBRID, SORTVSHYBRID, TOP3VS
+}

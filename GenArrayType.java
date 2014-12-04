@@ -1,0 +1,5 @@
+
+public enum GenArrayType
+{
+	RANDOM, REVERSESORTED, FIVEDISTINCTVALUES
+}
